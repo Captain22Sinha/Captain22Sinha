@@ -1,4 +1,4 @@
-# Hello, I'm Captain22Sinha! 👋
+# Hello, I'm Samrat Sinha! 👋
 
 ## Professional Introduction
 I'm a passionate software developer with experience in building dynamic applications and contributing to open-source projects. I thrive in collaborative environments and love to solve challenging problems.
